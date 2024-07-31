@@ -1,5 +1,3 @@
-فهمت، إليك نموذج README.md لمشروعك:
-
 # Football Players 
 
 ## Project Description
@@ -15,6 +13,8 @@ This project focuses on analyzing and segmenting football/soccer players based o
 - Segment players based on their nationalities
 - Flexible and scalable to handle large datasets of football players
 
+Contributing
+If you find any issues or have suggestions for improvements, feel free to submit a pull request or create an issue in the repository.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
